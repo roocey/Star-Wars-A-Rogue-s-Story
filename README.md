@@ -5,8 +5,6 @@ Star Wars: A Rogue's Story was written with Python 2.7. The primary library used
 
 By default, Star Wars: A Rogue's Story is only supported on Windows. The main reason for this is because of the usage of ctypes to create the popup window. The source should be fully accessible on any platform that supports Python 2.7.
 
-Please see the LICENSE file for information on the license for OnceAnHour.
-
 Star Wars: A Rogue's Story was written by roocey (Andrew Wright).
 
 Contact:
