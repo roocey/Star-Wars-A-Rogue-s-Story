@@ -13,4 +13,4 @@ blog: http://www.caffeineoverdose.me/
 
 twitter: https://twitter.com/roocey
 
-e-mail: roocey at gmail dot com
+
