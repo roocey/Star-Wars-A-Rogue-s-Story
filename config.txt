@@ -1,20 +1,16 @@
-## BASIC SETTINGS 
+## BASIC SETTINGS ##
 
-# all fonts are stored in dat/fonts/ 
+# all fonts are stored in dat/fonts/ #
 
 font = 'font_16x16_test.png'
 fps_limit = 120
 player_color_r = 255
 player_color_g = 255
 player_color_b = 0
-player_tile = '@'
 
-# makes it so certain unimportant messages do not repeat (e.g., 'The snow melts beneath you.')
-suppress_msg_spam = True
+## ADVANCED SETTINGS ##
 
-## ADVANCED SETTINGS 
-
-# changing advanced settings may cause your game to not function properly 
+# changing advanced settings may cause your game to not function properly #
 
 debug = False
 
